@@ -188,7 +188,7 @@ For JavaScript output, open:
 Browser → Developer Tools → Console
 ```
 
-## 🚀 Future Learning
+## 🚀 Future Improvement
 
 More JavaScript concepts and practice will be added over time, including:
 
