@@ -210,7 +210,3 @@ More JavaScript concepts and practice will be added over time, including:
 
 GitHub:
 https://github.com/Nocap21
-
----
-
-⭐ This repository is part of my journey to strengthen JavaScript fundamentals through consistent practice and problem solving.
